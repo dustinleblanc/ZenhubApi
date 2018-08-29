@@ -1,6 +1,6 @@
 <?php
 
-namespace ExampleProject;
+namespace ZenhubApi;
 
 use Symfony\Component\Console\Output\BufferedOutput;
 
